@@ -10,6 +10,11 @@ footer {
     background-color: cornflowerblue;
 }
 
+header h1 {
+    color: darkred;
+    background-color: rgb(59, 11, 59)
+}
+
 header {
     padding: 5px;
 }
@@ -37,9 +42,10 @@ main {
 main section {
     display: flex;
     align-items: center;
-    padding: 64px 0;
+    padding: 40px 0;
     position: relative;
     flex-direction: column;
+    margin-bottom: 10px;
 }
 
 section {
