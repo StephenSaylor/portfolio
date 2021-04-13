@@ -50,6 +50,11 @@ section h2 {
     background-color: darkslateblue;
 }
 
+section p {
+    background-color: rgb(46, 77, 1);
+    color: honeydew;
+}
+
 section img {
     max-width: 100%;
     max-height: 400px;
