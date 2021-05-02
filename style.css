@@ -1,6 +1,5 @@
 * {
     box-sizing: border-box;
-    border: 1px solid blue;
     padding: 0;
     margin: 0;
     font-family: 'Original Surfer', cursive;
@@ -10,18 +9,10 @@ p {
     font-family: 'Mali', cursive;
 }
 
-header,
+.jumbotron, 
 footer {
-    background-color: cornflowerblue;
-}
-
-header h1 {
-    color: darkred;
+    color: rgb(29, 216, 29);
     background-color: rgb(59, 11, 59)
-}
-
-header {
-    padding: 5px;
 }
 
 nav ul {
@@ -30,6 +21,7 @@ nav ul {
     justify-content: flex-end;
     font-family: sans-serif;
     font-weight: 600;
+    font-size: larger;
 }
 
 nav ul a {
